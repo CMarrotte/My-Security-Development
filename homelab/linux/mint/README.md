@@ -47,4 +47,8 @@ Messing with common 'less' command keystrokes (xg, xG, f, b, /pattern, ?pattern,
 Becoming familiar with 'info' command and keystrokes (N, P, L, T, Enter, etc) for finding information on commands and navigating info/man pages.
 ![plot](./images/15.png)
 
+Testing out 'tr' and 'echo' commands
+![plot](./images/16.png)
 
+Messing with "file globbing" using wildcards: '[]', '*', and '?'.
+![plot](./images/17.png)
