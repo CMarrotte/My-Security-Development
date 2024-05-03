@@ -31,3 +31,20 @@ Selecting ISO for the VM.
 
 Starting the new Linux Mint 21.3 Cinnamon VM.
 ![plot](./images/10.png)
+
+Apt update and apt upgrade.
+![plot](./images/11.png)
+
+Reading Chapter 5 of LPI Linux Essentials Study Guide: Exan 010 V1.6 and testing out the different linux commands in a text only terminal from (ctrl+alt+F3).
+![plot](./images/12.png)
+
+'whatis' and 'apropos' commands working after fix by running 'sudo mandb'.
+![plot](./images/13.png)
+
+Messing with common 'less' command keystrokes (xg, xG, f, b, /pattern, ?pattern, etc).
+![plot](./images/14.png)
+
+Becoming familiar with 'info' command and keystrokes (N, P, L, T, Enter, etc) for finding information on commands and navigating info/man pages.
+![plot](./images/15.png)
+
+
