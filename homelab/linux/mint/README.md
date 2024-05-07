@@ -32,6 +32,9 @@ Selecting ISO for the VM.
 Starting the new Linux Mint 21.3 Cinnamon VM.
 ![plot](./images/10.png)
 
+Installing Linux Mint on the VM.
+![plot](./images/18.png)
+
 Apt update and apt upgrade.
 ![plot](./images/11.png)
 
